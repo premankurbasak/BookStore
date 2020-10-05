@@ -1,7 +1,7 @@
 # BookStore
 Twinkle Book Store
 
-This project will help to automate the Bookstore's Billing management system. The application is design and developed in .NET development environment using Windows Forms.It will work in Windows Enviornment only having .NET Framework 4.5.2 installed.
+This project will help to automate the Bookstore's Billing management system. The application is design and developed in .NET development environment using Windows Forms.It will work in Windows Enviornment only. It is developed using .NET Framework 4.5.2.
 The has used 3rd party libaray like iTextsharp for the generation of the PDF files.
 
 ## Usage
