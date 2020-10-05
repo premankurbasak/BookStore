@@ -7,6 +7,7 @@ The has used 3rd party libaray like iTextsharp for the generation of the PDF fil
 ## Usage
 
 To build the project, you need to download the source code. 
-For running the project you need to create a database. The database scripts are available in the DB Folder.
+For running the project you need to create a database. The database scripts are available in the folder.
+Please add an User in the user details table for login to the application before running. Also change the connection string accordingly in the App.confign file. 
 
 
